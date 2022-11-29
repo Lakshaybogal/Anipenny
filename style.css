@@ -137,7 +137,9 @@
 .footer a {
   color: white;
 }
-
+.zoom{
+  transition: 0.5s;
+}
 .zoom:hover {
   transform: scale(1.12); 
 }
